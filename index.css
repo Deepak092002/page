@@ -1,0 +1,30 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+}
+
+#header-nav{
+    /* position: relative; */
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img{
+    background: url('restro.jpg') no-repeat;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 10px 15px 10px 0;
+}
+
+#header{
+   
+    height: 500px;
+}
+
+#nav-list a{
+    color: #951C49;
+    text-align: center;
+}
